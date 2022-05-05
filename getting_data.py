@@ -8,4 +8,4 @@ nome = input()
 # Processamento
 
 #Saída de dados
-print("seja bem-vindo (a) %s" %nome)
+print('Seja bem-vindo (a) %s' %nome)

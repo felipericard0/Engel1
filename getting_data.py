@@ -3,9 +3,14 @@ Recebendo dados do usuário
 """
 # Entrada de dados
 print("Qual o seu nome?")
-nome = input()
+nome = input()  #Input ->Entrada
+
+print('Seja bem-vindo (a) %s' %nome)
+
+print("Qual sua idade? ")
+idade = input()
 
 # Processamento
 
-#Saída de dados
-print('Seja bem-vindo (a) %s' %nome)
+#Saída
+print('O %s tem %s anos' % (nome, idade))

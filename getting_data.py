@@ -11,7 +11,7 @@ Em Python, string é tudo que estiver entre:
 
 Exemplos:
 - Aspas simples -> 'Benjamin Engel'
-- Aspas duplas -> "Benjamin Emgel"
+- Aspas duplas -> "Benjamin Engel"
 - Aspas simples triplas -> ''' Benjamin Engel'''
 """
 # - Aspas duplas triplas -> """Benjamin Engel"""

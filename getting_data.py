@@ -17,8 +17,10 @@ Exemplos:
 # - Aspas duplas triplas -> """Benjamin Engel"""
 
 # Entrada de dados
-print("Qual o seu nome?")
-nome = input()  #Input ->Entrada
+# print("Qual o seu nome?")
+# nome = input()  #Input ->Entrada
+
+nome = input('Qual seu nome? ')
 
 # Exemplo de print 'antigo' 2.x
 # print('Seja bem-vindo (a) %s' %nome)
@@ -29,8 +31,10 @@ nome = input()  #Input ->Entrada
 # Exemplo de print 'mais atual' 3.7
 print(f'Seja bem-vindo(a) {nome}')
 
-print("Qual sua idade? ")
-idade = input()
+# print("Qual sua idade? ")
+# idade = input()
+
+idade = input('Qual sua idade? ')
 
 # Processamento
 
